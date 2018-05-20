@@ -1,0 +1,39 @@
+body{
+	font-family: 'Roboto', sans-serif;
+	display: flex;
+	justify-content: center;
+	background-color: #333a40;
+	text-align: center;
+	align-items: center;
+
+}
+input{
+	text-align: center;
+	margin-left: 10px;
+}
+.form-inline{
+	margin-left: 15px; 
+}
+.btn-outline-dark{
+
+	border-radius: 20px ;
+	padding: 5px 14px;
+	margin: 3px 12px;
+	margin-left: 0px;
+}
+.container{
+	padding: 5px 50px;
+	/*margin-left: -10px;*/
+}
+.container-full{
+	background-color: white;
+	display: inline-block;
+	/*margin-left: 100px;*/
+}
+.card{
+	margin-top: 30px;
+	
+}
+.btn-2{
+	padding: 5px 85px !important;
+}
